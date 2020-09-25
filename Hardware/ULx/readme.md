@@ -1,0 +1,1 @@
+this file is used for communication with sylos 1khz spectrometer made by Mikas Vengris
